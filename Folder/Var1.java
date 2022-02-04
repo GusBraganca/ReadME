@@ -1,9 +1,13 @@
 class Var1 {
     public static void main (String[] args){
 
-        int cont = 0;
+        int age = 35;
+        int age2 = 2;
+        String firstName = "Gustavo";
+        String lastName = "Braganca";
 
-        System.out.println("Vc digitou " + cont);
+
+        System.out.println(age == age2);
 
     }
 
