@@ -3,6 +3,7 @@ class HelloWorld {
 
         System.out.println("Hello World");
         System.out.println("segunda linha");
+        System.out.println("linha tres");
     }
 
 }
